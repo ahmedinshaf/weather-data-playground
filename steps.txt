@@ -1,0 +1,3 @@
+drop Loud Cover 
+drop Daily Summery
+drop formatted date and time 
